@@ -25,8 +25,6 @@ The process flow in arriving at the insights includes:
 
 ![](data_model.png)  
 ---
-![](Modelling.png) 
----
 
 
 ## Dashboard in Excel
