@@ -27,12 +27,6 @@ The process flow in arriving at the insights includes:
 ---
 ![](Modelling.png) 
 ---
-# Visualization
-The report comprises of 3 pages:
-- Homepage
-- Sales and Profits
-- Customers Orders
-
 
 
 ## Dashboard in Excel
