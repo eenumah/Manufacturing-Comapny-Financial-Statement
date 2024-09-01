@@ -23,7 +23,7 @@ The process flow in arriving at the insights includes:
 
 # Modelling
 
-![](Data_model.png)  
+![](data_model.png)  
 ---
 ![](Modelling.png) 
 ---
@@ -56,4 +56,4 @@ The process flow in arriving at the insights includes:
 
 ---
 
-# This was really fun for me, thank you for getting to the end!
+# Thank you for getting to the end!
